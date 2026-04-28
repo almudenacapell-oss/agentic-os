@@ -8,14 +8,22 @@
 
 ## Install (2 minutes)
 
-**Mac:**
-1. Open Terminal
-2. Run: `bash /path/to/AOS-Power/install.sh`
-3. Restart Kiro
+**Step 1 — Download**
+Click the green **Code** button on this page → **Download ZIP** → unzip it
 
-**Windows:**
-1. Double-click `install.bat`
-2. Restart Kiro
+**Step 2 — Run the installer**
+
+Mac:
+1. Open Terminal (search "Terminal" in Spotlight)
+2. Type `bash ` — with a space after, don't press Enter yet
+3. Drag the `install.sh` file from Finder into the Terminal window — it fills in the path
+4. Now press Enter
+
+Windows:
+1. Open the unzipped folder
+2. Double-click `install.bat`
+
+**Step 3 — Restart Kiro**
 
 ## Set up (10 minutes)
 
