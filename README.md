@@ -27,7 +27,11 @@ Windows:
 
 ## Set up (10 minutes)
 
-Open any workspace in Kiro and type:
+**First — open your notes folder in Kiro.**
+
+Kiro needs a workspace to write your briefings, meeting notes, and strategy files into. This should be whatever folder you already use for notes — your Obsidian vault, a Documents subfolder, anything. If you don't have one yet, create an empty folder called `my-notes` anywhere on your computer, then open it in Kiro (File → Open Folder).
+
+Then type:
 
 > **Let's set up my Agentic OS**
 
